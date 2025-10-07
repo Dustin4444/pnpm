@@ -39,7 +39,7 @@
   "devDependencies": {
     "@pnpm/write-project-manifest": "workspace:*",
     "@types/write-file-atomic": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=18.12"
