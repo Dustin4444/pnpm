@@ -83,7 +83,7 @@
     "@pnpm/logger": "workspace:*",
     "@pnpm/prepare": "workspace:*",
     "@pnpm/read-projects-context": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/store-path": "workspace:*",
     "@pnpm/store.cafs": "workspace:*",
     "@pnpm/test-fixtures": "workspace:*",
@@ -97,7 +97,7 @@
     "isexe": "catalog:",
     "load-json-file": "catalog:",
     "sinon": "catalog:",
-    "tempy": "catalog:",
+    "tempy": "3.0.0",
     "write-json-file": "catalog:"
   },
   "engines": {
