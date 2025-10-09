@@ -47,7 +47,7 @@
     "@pnpm/read-project-manifest": "workspace:*",
     "@types/is-windows": "catalog:",
     "@types/parse-json": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=18.12"
