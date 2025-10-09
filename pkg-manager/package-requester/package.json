@@ -63,7 +63,7 @@
     "@pnpm/create-cafs-store": "workspace:*",
     "@pnpm/logger": "workspace:*",
     "@pnpm/package-requester": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/test-fixtures": "workspace:*",
     "@types/normalize-path": "catalog:",
     "@types/ramda": "catalog:",
@@ -73,7 +73,7 @@
     "load-json-file": "catalog:",
     "nock": "catalog:",
     "normalize-path": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=18.12"
