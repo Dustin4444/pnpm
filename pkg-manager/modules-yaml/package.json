@@ -42,7 +42,7 @@
     "@pnpm/modules-yaml": "workspace:*",
     "@types/is-windows": "catalog:",
     "@types/ramda": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=18.12"
