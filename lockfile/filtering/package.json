@@ -50,7 +50,7 @@
     "@pnpm/logger": "workspace:*",
     "@types/ramda": "catalog:",
     "detect-libc": "catalog:",
-    "tempy": "catalog:",
+    "tempy": "3.0.0",
     "write-yaml-file": "catalog:",
     "yaml-tag": "catalog:"
   },
