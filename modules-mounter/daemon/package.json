@@ -58,7 +58,7 @@
     "@pnpm/logger": "workspace:*",
     "@pnpm/mount-modules": "workspace:*",
     "@types/normalize-path": "catalog:",
-    "rimraf": "catalog:"
+    "rimraf": "4.3.1"
   },
   "engines": {
     "node": ">=18.12"
