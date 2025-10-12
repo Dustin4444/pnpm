@@ -48,7 +48,7 @@
     "@pnpm/plugin-commands-store-inspecting": "workspace:*",
     "@pnpm/prepare": "workspace:*",
     "execa": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=18.12"
