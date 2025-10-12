@@ -46,7 +46,7 @@
     "@types/rimraf": "catalog:",
     "@types/touch": "catalog:",
     "is-windows": "catalog:",
-    "rimraf": "catalog:"
+    "rimraf": "4.3.1"
   },
   "engines": {
     "node": ">=18.12"
