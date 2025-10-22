@@ -52,7 +52,7 @@
     "@pnpm/plugin-commands-licenses": "workspace:*",
     "@pnpm/prepare": "workspace:*",
     "@pnpm/read-package-json": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/test-fixtures": "workspace:*",
     "@pnpm/workspace.filter-packages-from-dir": "workspace:*",
     "@types/ramda": "catalog:",
