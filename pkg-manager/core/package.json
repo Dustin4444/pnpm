@@ -130,7 +130,7 @@
     "@pnpm/logger": "workspace:*",
     "@pnpm/prepare": "workspace:*",
     "@pnpm/read-package-json": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/store-path": "workspace:*",
     "@pnpm/store.cafs": "workspace:*",
     "@pnpm/test-fixtures": "workspace:*",
