@@ -121,7 +121,7 @@
     "@pnpm/prepare": "workspace:*",
     "@pnpm/read-package-json": "workspace:*",
     "@pnpm/read-project-manifest": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/run-npm": "workspace:*",
     "@pnpm/store.cafs": "workspace:*",
     "@pnpm/tabtab": "catalog:",
