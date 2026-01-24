@@ -76,7 +76,7 @@
     "@pnpm/logger": "workspace:*",
     "@pnpm/plugin-commands-rebuild": "workspace:*",
     "@pnpm/prepare": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/test-fixtures": "workspace:*",
     "@pnpm/test-ipc-server": "workspace:*",
     "@pnpm/workspace.filter-packages-from-dir": "workspace:*",
@@ -84,7 +84,7 @@
     "@types/semver": "catalog:",
     "@types/sinon": "catalog:",
     "execa": "catalog:",
-    "sinon": "catalog:",
+    "sinon": "21.0.1",
     "write-yaml-file": "catalog:"
   },
   "engines": {
