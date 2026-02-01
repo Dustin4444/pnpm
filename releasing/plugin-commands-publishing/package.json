@@ -89,7 +89,7 @@
     "cross-spawn": "catalog:",
     "is-windows": "catalog:",
     "load-json-file": "catalog:",
-    "tar": "catalog:",
+    "tar": "7.5.7",
     "write-yaml-file": "catalog:"
   },
   "engines": {
