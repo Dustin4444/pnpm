@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@pnpm/lockfile.walker": "workspace:*",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "engines": {
     "node": ">=22.13"
