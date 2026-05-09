@@ -64,7 +64,7 @@
     "@types/ramda": "catalog:",
     "@types/semver": "catalog:",
     "@types/write-file-atomic": "catalog:",
-    "tempy": "catalog:",
+    "tempy": "3.0.0",
     "write-yaml-file": "catalog:",
     "yaml-tag": "catalog:"
   },
